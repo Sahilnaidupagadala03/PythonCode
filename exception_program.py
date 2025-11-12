@@ -21,5 +21,5 @@ class Person:
             print(f"name -> {self.name}")
 
 Person("Sahil", 17).display_person()
-Person("Krishna",25).display_person()
+Person("Krishna",25).display_person() 
 

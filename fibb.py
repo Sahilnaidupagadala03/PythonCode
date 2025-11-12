@@ -5,7 +5,7 @@ for i in range(2, L):
     r = p + c
     p = c
     c = r
-    print(r, end=" ") #fib
+    print(r, end=" ") #fibB
 
 
                 
